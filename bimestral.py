@@ -91,3 +91,5 @@ while not PARAR_JUEGO:
     PANTALLA.blit(MARCADOR, (20, 580))
     PANTALLA.blit(IMG_COHETE, (XX_COHETE, YY_COHETE))
     pygame.display.update()
+
+    
